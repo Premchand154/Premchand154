@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 🔭 I’m currently working on  
 - End-to-end ML & Deep Learning systems  
