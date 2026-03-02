@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Premchand Sepeni</h1>
-<h3 align="center">AI/ML Engineer | Deep Learning | LLM Enthusiast | FastAPI Deployment</h3>
+<h3 align="center">AI/ML Engineer | Deep Learning | LLM Enthusiast | Deployment</h3>
 
 ---
 
