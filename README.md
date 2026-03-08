@@ -68,6 +68,10 @@ Git | GitHub | Jupyter | Google Colab
 
 ## 📊 Stats
 
+## 📊 GitHub Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Premchand154&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premchand154&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Premchand154&theme=tokyonight)
