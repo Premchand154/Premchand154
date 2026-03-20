@@ -22,15 +22,22 @@ Currently exploring:
 - Supports multiple analysis modes: QA, bug detection, architecture explanation, and optimization
 - Interactive Streamlit interface deployed on Hugging Face Spaces
 
-### 🐶 Cats vs Dogs Image Classification
-- CNN using MobileNetV2 (Transfer Learning)
-- Real-time deployment with FastAPI
-- Production-style inference pipeline
+### 🤖 AI Vision Copilot (Real-Time Multimodal AI System)
+- Developed a real-time AI system combining **YOLOv8, BLIP, and LLMs (Ollama)** for visual understanding and reasoning
+- Performs **object detection, image captioning, and context-aware question answering**
+- Implemented **performance optimizations** (frame sampling, caption caching, latency tracking)
+- Added **conversation memory + prompt engineering** to reduce hallucinations
+- Built interactive UI using **Streamlit (image + live camera modes)**
+- Fully **Dockerized for production deployment**
 
-### 🏠 House Price Prediction System
-- End-to-end regression pipeline
-- Feature engineering & cross-validation (RMSE, R²)
-- Deployed as scalable REST API
+### 🧠 Multimodal AI Copilot (LLM + RAG + Vision + Speech)
+
+- Built an end-to-end **multimodal AI system** integrating text, image, audio, and document understanding
+- Implemented **RAG pipeline with FAISS** for document-based Q&A (PDF chat)
+- Integrated **speech-to-text (Whisper), image captioning, object detection, and VQA**
+- Designed modular architecture with **FastAPI backend + Streamlit frontend**
+- Enabled **cross-modal reasoning** (image + question → intelligent response)
+- Containerized using **Docker for scalable deployment**
 
 ---
 
